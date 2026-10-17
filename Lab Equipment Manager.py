@@ -1,4 +1,14 @@
 """
+/****************/  
+
+202418930
+Dương Tùng Lâm
+
+/****************/  
+
+"""
+
+"""
 HỆ THỐNG QUẢN LÝ THIẾT BỊ VÀ HỢP ĐỒNG BẢO TRÌ
 ================================================
 
@@ -23,6 +33,7 @@ hai đối tượng.
 Thiết bị có vòng đời độc lập với phòng: nó tồn tại khi chưa được phân bổ phòng, có thể bị gỡ khỏi phòng rồi chuyển sang phòng khác, 
 và khi phòng bị xóa thì thiết bị vẫn còn trong hệ thống. Nếu là hợp thành, thiết bị sẽ bị hủy cùng phòng.
 """
+
 
 from __future__ import annotations
 
